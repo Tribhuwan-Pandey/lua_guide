@@ -1,0 +1,28 @@
+# Lua / LuaRocks
+
+*.rock
+*.rockspec
+.rocks/
+
+# Lua language server
+
+.lua_ls/
+.luarc.json
+
+# Editor / IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+
+*.swp
+*.swo
+*~
+*.tmp
+
