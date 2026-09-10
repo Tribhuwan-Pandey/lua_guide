@@ -11,6 +11,7 @@ end
 
 print('\n')
 --loops 
+--in lua loops also take last like here it also take 5
 for i=1,5 do
 	print(i)
 end
